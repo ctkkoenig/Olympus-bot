@@ -4,7 +4,7 @@
   "description": "A basic announcement bot written in Discord.js",
   "main": "src/app.js",
   "scripts": {
-    "start": "echo \"Error: no test specified\" && exit 1"
+    "start": "rc/app.js" && exit 1"
   },
   "author": "KryskZ09",
   "license": "ISC",
