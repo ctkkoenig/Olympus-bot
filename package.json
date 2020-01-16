@@ -4,7 +4,7 @@
   "description": "A basic announcement bot written in Discord.js",
   "main": "src/app.js",
   "scripts": {
-    "start": "src/app.js" && exit 1"
+    "start": "src/app.js" 
   },
   "author": "KryskZ09",
   "license": "ISC",
